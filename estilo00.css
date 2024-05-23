@@ -1,0 +1,15 @@
+body{
+    background-image:url(hoja.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #f8f8f8;
+    min-height: 100vh;
+}
+p{
+    font-size:30px;
+    color:#FFFFFF;
+    text-align:center;
+    margin-top:10px;
+    font-family:fantasy;
+}
